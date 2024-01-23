@@ -9,7 +9,10 @@ def is_palindrome(number):
 # Test cases
 number1 = 545
 number2 = 12321
+number3 = 123
 
 print(f"{number1} is a palindrome: {is_palindrome(number1)}")
 print(f"{number2} is a palindrome: {is_palindrome(number2)}")
+print(f"{number3} is a palindrome: {is_palindrome(number3)}")
+
 
